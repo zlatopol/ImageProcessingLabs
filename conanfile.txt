@@ -1,0 +1,6 @@
+[requires]
+argparse/2.9
+fmt/9.1.0
+
+[generators]
+cmake
